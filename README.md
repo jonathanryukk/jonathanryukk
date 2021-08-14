@@ -1,4 +1,5 @@
-ㅡ hi~
+🌟 My dream is to be a WEB developer 💻
+SSAFY 6th
 
 <div align=center>
   <img src="https://img.shields.io/badge/Python-2E64FE?style=flat-square&logo=Python&logoColor=white"/> 
