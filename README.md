@@ -1,6 +1,6 @@
 * 🌟 My dream is to be a Good father 
 * SSAFY 6th
-* instagram -> <img src="https://mblogthumb-phinf.pstatic.net/MjAxOTAxMDlfNTMg/MDAxNTQ3MDE4MzI4NDIy.O4sP_QpdWO9GiVpfkp92MLvnMGBRzm82q3VhEfz8GMQg.kTDiopuqqvHXHZJ784QiGWX-DwGaEj3mvQ04aCqPC0Qg.PNG.designpress2016/Instagram_logo_2016.png?type=w800">
+* instagram -> <img src="https://mblogthumb-phinf.pstatic.net/MjAxOTAxMDlfNTMg/MDAxNTQ3MDE4MzI4NDIy.O4sP_QpdWO9GiVpfkp92MLvnMGBRzm82q3VhEfz8GMQg.kTDiopuqqvHXHZJ784QiGWX-DwGaEj3mvQ04aCqPC0Qg.PNG.designpress2016/Instagram_logo_2016.png?type=w100">
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjonathanryukk%2Fhit-counter&count_bg=%23D3D9BD&title_bg=%23E9DCDC&icon=&icon_color=%230D0D0D&title=hits&edge_flat=false"/></a>
 
