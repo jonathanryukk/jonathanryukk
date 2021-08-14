@@ -1,4 +1,5 @@
-🌟 My dream is to be a WEB developer 💻
+🌟 My dream is to be a WEB developer 💻 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjonathanryukk%2Fhit-counter&count_bg=%23D3D9BD&title_bg=%23E9DCDC&icon=&icon_color=%230D0D0D&title=hits&edge_flat=false"/></a>
+
 SSAFY 6th
 
 <div align=center>
@@ -8,4 +9,3 @@ SSAFY 6th
   <img src="https://img.shields.io/badge/Django-FFE400?style=flat-square&logo=Django&logoColor=white"/>
 </div>
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjonathanryukk%2Fhit-counter&count_bg=%23D3D9BD&title_bg=%23E9DCDC&icon=&icon_color=%230D0D0D&title=hits&edge_flat=false"/></a>
