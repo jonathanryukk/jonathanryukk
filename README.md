@@ -1,4 +1,4 @@
-* 🌟 My dream is to be a Good father 
+* 🌟 Slow and steady wins the race. 
 * SSAFY 6th
 
 instagram  <a href="https://www.instagram.com/malbausizang"><img src="http://emzmit.com/wp-content/uploads/2017/04/instagram-logo.jpg" width=25px></a>
