@@ -1,6 +1,6 @@
 * 🌟 My dream is to be a Good father 
 * SSAFY 6th
-* instagram -> <a href="https//www.instagram.com/malbausizang/"><img style=size:100px src="http://emzmit.com/wp-content/uploads/2017/04/instagram-logo.jpg"></a>
+* instagram -> <a href="https//www.instagram.com/malbausizang/"><img src="http://emzmit.com/wp-content/uploads/2017/04/instagram-logo.jpg" size=100px></a>
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjonathanryukk%2Fhit-counter&count_bg=%23D3D9BD&title_bg=%23E9DCDC&icon=&icon_color=%230D0D0D&title=hits&edge_flat=false"/></a>
 
