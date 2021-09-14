@@ -7,13 +7,11 @@ instagram  <a href="https://www.instagram.com/malbausizang"><img src="http://emz
 
 
 <div align=center>
-  <img src="https://img.shields.io/badge/Python-2E64FE?style=flat-square&logo=Python&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/HTML5-FF4000?style=flat-square&logo=HTML5&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/CSS3-FF8000?style=flat-square&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-FFE400?style=flat-square&logo=Django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-#4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-#003B57?style=flat-square&logo=SQLITE&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-#F80000?style=flat-square&logo=Oracle&logoColor=white"/>
-  
+  <img src="https://img.shields.io/badge/Python-2E64FE?style=flat-square&logo=Python&logoColor=white%22/%3E 
+  <img src="https://img.shields.io/badge/HTML5-FF4000?style=flat-square&logo=HTML5&logoColor=white%22/%3E 
+  <img src="https://img.shields.io/badge/CSS3-FF8000?style=flat-square&logo=CSS3&logoColor=white%22/%3E
+  <img src="https://img.shields.io/badge/Django-FFE400?style=flat-square&logo=Django&logoColor=white%22/%3E
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white%22/%3E
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white%22/%3E
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white%22/%3E
 </div>
-
