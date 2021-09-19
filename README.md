@@ -1,5 +1,5 @@
 * 🌟 Slow and steady wins the race.
-* SSAFY 6th
+* SSAFY 6th ＃
 
 instagram  <a href="https://www.instagram.com/malbausizang"><img src="http://emzmit.com/wp-content/uploads/2017/04/instagram-logo.jpg" width=22px></a>
 
