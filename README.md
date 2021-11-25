@@ -1,7 +1,8 @@
-* 🌟 Slow and steady wins the race.
-* SSAFY 6th
-* SQLD,정보처리기사.
-* instagram  <a href="https://www.instagram.com/malbausizang"><img src="http://emzmit.com/wp-content/uploads/2017/04/instagram-logo.jpg" width=22px></a>
+<h1 align="center">Information</h3>
+
+<h4> *SSAFY 6th
+     * SQLD,정보처리기사
+</h4>
 
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
