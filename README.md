@@ -24,7 +24,7 @@
 
 <br>
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=HyunJinRyu&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Hyun Jin Ryu&fontSize=70&animation=twinkling)
 
 
 
