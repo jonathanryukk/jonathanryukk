@@ -1,7 +1,7 @@
 <h1 align="center">Information</h3>
 
-<h4 align=center> SSAFY 6th
-    SQLD,정보처리기사
+<h4 align=center> SSAFY 6th <hr>
+    SQLD <hr> 정보처리기사
 </h4>
 
 
