@@ -1,8 +1,6 @@
-<h1 align="center">Information</h3>
-
-<h2 align="center">
-  <a href=https://defiant-feet-321.notion.site/f23f791d8f8a4b9d90194b6ecd67b51b">내 소개</a>
-</h2>
+<h1 align="center">
+  <a href=https://defiant-feet-321.notion.site/f23f791d8f8a4b9d90194b6ecd67b51b">Information</a>
+</h1>
 
 
 <h4 align=center> SSAFY 6th <hr>
