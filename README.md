@@ -1,8 +1,14 @@
 <h1 align="center">Information</h3>
 
+<p align="center">
+  <a href=https://defiant-feet-321.notion.site/f23f791d8f8a4b9d90194b6ecd67b51b">내 소개</a>
+</p>
+
+
 <h4 align=center> SSAFY 6th <hr>
     certificate :  정보처리기사 , SQLD 
 </h4>
+
 
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
