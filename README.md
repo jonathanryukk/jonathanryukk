@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href=https://defiant-feet-321.notion.site/f23f791d8f8a4b9d90194b6ecd67b51b">Information</a>
+  <a href=https://jonathanryukk.notion.site/f23f791d8f8a4b9d90194b6ecd67b51b">Information</a>
 </h1>
 
 
