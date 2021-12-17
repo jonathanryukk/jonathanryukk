@@ -4,7 +4,7 @@
 
 
 <h4 align=center> SSAFY 6th <hr>
-    certificate :  정보처리기사 , SQLD ;
+    certificate :  정보처리기사 , SQLD
 </h4>
 
 
